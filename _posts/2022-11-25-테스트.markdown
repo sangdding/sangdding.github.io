@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "테스트"
+date:   2022-11-25 16:52:24 +0900
+categories: 테스트
+---
+테스트를 해 봅니다.
+
+{% highlight java %}
+class Main {
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }
+}
+{% endhighlight %}
