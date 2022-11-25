@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              SM Archive
+email:              enjxz97382@gmail.com
+description:        개발 지식 저장소
+author:             이상명
 baseurl:            "/"
 url:                "https://startbootstrap.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:
+github_username:    sangdding
+facebook_username:
 instagram_username:  
 linkedin_username:
 
