@@ -6,10 +6,10 @@ categories: 테스트
 ---
 테스트를 해 봅니다.
 
-{% highlight java %}
+'''java
 class Main {
     public static void main(String[] args) {
         System.out.println("hello world");
     }
 }
-{% endhighlight %}
+'''
